@@ -1,1 +1,3 @@
-My first readme updated from github
+# alx-pre_course
+I'm now  a ALX student, this is my first repository as a full-stack engineer
+This is a GitHub updated readme
